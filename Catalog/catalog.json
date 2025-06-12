@@ -1,5 +1,5 @@
 {
-    "Project_Owner": "Group??",
+    "Project_Owner": "Group",
     "Projec_tName": "SmartPlant",
     "LastUpdate": "",
     "MQTT": {
@@ -11,21 +11,21 @@
         "port": "8080"
     },
     "base_Topic": "IOT_PROJECT",
-    "ChatBot_token": "5955948234:AAGBi29Pp40XV2M-VeqxaLoDH2axNJlFUQc",
+    "ChatBot_token": "Your_Token",
     "Users": {
         "1": {
-            "User_Name": "sarah",
+            "User_Name": "Your_Name",
             "ChatBot": {
-                "ChatID": 966712244,
-                "Password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+                "ChatID": "Your_ChatID",
+                "Password": "Your_Password"
             },
             "Plants": {
                 "1": {
                     "Crop": "Tomato",
                     "ThinkSpeak_Field": {
                         "url": "https://api.thingspeak.com/update.json",
-                        "api key": "D74Q4NP0B2OHUOCP",
-                        "channel_id": "2136051"
+                        "api key": "Your_API_Key",
+                        "channel_id": "Your_Channel_ID"
                     },
                     "Irrigation_Data": {
                         "time": "07/10/23 22:29:27",
@@ -123,8 +123,8 @@
                     "Crop": "Tomato",
                     "ThinkSpeak_Field": {
                         "url": "https://api.thingspeak.com/update.json",
-                        "api key": "DYQ13GIVUH0W7EPO",
-                        "channel_id": "2210034"
+                        "api key": "Your_API_Key",
+                        "channel_id": "Your_Channel_ID"
                     },
                     "Irrigation_Data": {
                         "time": "07/10/23 22:43:07",
